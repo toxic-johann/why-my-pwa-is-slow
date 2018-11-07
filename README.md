@@ -1,5 +1,7 @@
 # why-my-pwa-is-slow
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/toxic-johann/why-my-pwa-is-slow.svg)](https://greenkeeper.io/)
+
 try to find out why my pwa is so slow
 
 ## QuickStart
